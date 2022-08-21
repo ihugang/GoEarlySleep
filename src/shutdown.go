@@ -13,7 +13,7 @@ func doIt() {
 		now := time.Now()
 		hour := now.Hour()
 		minute := now.Minute()
-		if (hour == 21 && minute >= 30) || hour >= 23 || hour <= 6 {
+		if (hour == 21 && minute >= 30) || hour >= 22 || hour <= 6 {
 			v := rand.Intn(10)
 			if v == minute%10 {
 				shutdown()
