@@ -4,7 +4,7 @@
 ### 安装方法：
 ##### [详细说明]https://www.laji365.net/sleepearly/autos.html
 
-1. 下载earlySleep.zip
+1. 下载earlySleep.zip ==> 右边Release中自取。
 2. 解压缩复制到孩子的电脑上一个目录下，比如c:\Downloads\
 3. 点开始，输入cmd，选择管理员模式运行
 4. 进入c:\Downloads 进行安装
