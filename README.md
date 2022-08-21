@@ -2,6 +2,8 @@
 让孩子早点睡的小应用，每天22:20悄默声儿毫无征兆绝不迟疑地自动关机
 ## 没有别的功能了。
 ### 安装方法：
+##### [详细说明]https://www.laji365.net/sleepearly/autos.html
+
 1. 下载earlySleep.zip
 2. 解压缩复制到孩子的电脑上一个目录下，比如c:\Downloads\
 3. 点开始，输入cmd，选择管理员模式运行
